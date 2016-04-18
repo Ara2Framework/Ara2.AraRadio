@@ -210,3 +210,5 @@ FakesAssemblies/
 GeneratedArtifacts/
 _Pvt_Extensions/
 ModelManifest.xml
+/Ara2.AraRadio/obj
+/Ara2.AraRadio/bin
